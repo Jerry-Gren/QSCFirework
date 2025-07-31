@@ -1,5 +1,8 @@
 # qsc-firework
-zoule.
+
+Frontend: [magicClock](https://github.com/Jerry-Gren/qsc-firework/tree/main/magicClock)
+
+Backend: [zjuam](https://github.com/Jerry-Gren/qsc-firework/tree/main/zjuam)
 
 ## common链接
 
